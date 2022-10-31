@@ -1,7 +1,7 @@
 # Dio_Anotações
 # **MEUS CONHECIMENTOS EM GIT+GITHUB**
 
-## GITHUB: ### Criador - LINUS TORVALDS
+## GITHUB: Criador - LINUS TORVALDS
 ## Comandos básicos (em w11): 
 * dir = Comando p/ listar, entender em que local estamos. 
 * cd = Navegar nas pastas
