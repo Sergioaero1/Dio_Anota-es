@@ -1,5 +1,5 @@
 # Dio_Anotações
-# **MEUS CONHECIMENTOS EM GIT+GITHUB **
+# ** MEUS CONHECIMENTOS EM GIT+GITHUB **
 
 ## GITHUB: ### Criador - LINUS TORVALDS
 ## Comandos básicos (em w11): 
