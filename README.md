@@ -27,6 +27,6 @@
 ## MANDAR PARA REPOSITÓRIO REMOTO(github)
        git remote add origin https:// ...
        git remote -v
-       gitpuah origin master/mein
+       gitpush origin master/mein
        ### PRONTO!
        
