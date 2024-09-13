@@ -20,7 +20,7 @@
       git config --global user.email ""
       git config --global user.name  ""
       -(criar o aquivo direto na pasta em .md)
-      git sdd *
+      git add *
       git commit -m ""
       ### OK REPOSITÓRIO LOCAL
   
